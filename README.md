@@ -1,6 +1,6 @@
 # Education repository
 
-* Structure
+## Structure
 1. Labs
 2. Course word
 3. Projects
